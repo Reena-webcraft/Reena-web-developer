@@ -1,2 +1,3 @@
-# Reena-web-developer
-My daily practice as I learn web development
+# Web Dev Journey
+
+Yahan main apna daily practice aur projects post karungi.
